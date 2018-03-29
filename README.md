@@ -25,7 +25,6 @@ calculate profit based on current Market price.
 
 ## Requirements
 
-    sudo pip install colorama
     sudo pip install python-binance
     
     
@@ -33,7 +32,6 @@ calculate profit based on current Market price.
         import os
         import time
         import settings
-        import colorama
         import binance
 
 
