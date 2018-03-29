@@ -44,11 +44,12 @@ calculate profit based on current Market price.
 Type the coin you want to calculate for example; storm its case incentive no need to worry about typing it in caps. The calculator outputs three profits; 1%. 3%, 5% it can be modified to your liking. The program automatically takes the last price of the coin to calculate the profit and tell you what amount to sell.
 
 
-![simulator](http://excdn.pw/img/binance-calculator.png)
+![calculator](http://excdn.pw/img/binance-calculator.png)
 
 ## Files
 
 calculator.py main program
+
 settings.py for the api key. secret and the currency you trade.
 
 
